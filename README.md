@@ -4,7 +4,7 @@ This is the official mining software for CSC cryptocurrency. CodersCoin uses the
 
 ### Get the latest block
 
-```http
+```https
   GET /api/get/latestblock
 ```
 This returns the latest block on the chain in JSON format.
@@ -14,7 +14,7 @@ This returns the latest block on the chain in JSON format.
 ```
 ### Submit mined block
 
-```http
+```https
   POST /mine/
 ```
 #### Request
