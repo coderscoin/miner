@@ -3,6 +3,12 @@ This is the official mining software for CSC cryptocurrency. CodersCoin uses the
 
 [![Available](https://img.shields.io/badge/Available-Testnet-blue)](https://choosealicense.com/licenses/mit/)
 [![Release](https://img.shields.io/badge/Release-None-red)](https://opensource.org/licenses/)
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 ## Mining API reference
 
 ### Get the latest block
