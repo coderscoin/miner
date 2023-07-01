@@ -14,9 +14,8 @@ This is the official mining software for CSC cryptocurrency. CodersCoin uses the
 - Cross platform
 ## Roadmap
 
-- Additional browser support
-
-- Add more integrations
+- [ ] incomplete task
+- [x] completed task
 ## FAQ
 
 #### Question 1
