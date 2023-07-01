@@ -1,8 +1,12 @@
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 # CodersCoin Miner
 This is the official mining software for CSC cryptocurrency. CodersCoin uses the Proof of Work consensus algorithm to validate blocks, but due to the lightweight nature of the blockchain, hashing and the proof of work process do not require too much computing capacity unlike other cryptocurrencies.
 
 [![Available](https://img.shields.io/badge/Available-Testnet-blue)](https://choosealicense.com/licenses/mit/)
 [![Release](https://img.shields.io/badge/Release-None-red)](https://opensource.org/licenses/)
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## Features
 
 - Light/dark mode toggle
