@@ -61,4 +61,4 @@ Start the server
 ```
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@petertill](https://www.github.com/petertill)
