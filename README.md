@@ -86,6 +86,9 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
 ## Authors
 
 - [@petertill](https://www.github.com/petertill)
