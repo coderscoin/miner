@@ -91,5 +91,5 @@ class Miner {
 }
 
 // Usage example
-const miner = new Miner("https://csc-1.followrel.repl.co", "mineruser");
+const miner = new Miner("This information is private", "mineruser");
 miner.mine();
