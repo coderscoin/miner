@@ -30,3 +30,29 @@ This returns the latest block on the chain in JSON format.
 | :-------- | :-------------------------------- |
 | `200` | The mining is successful and has been accepted by the network. |
 | `500` | Mining failed, the network rejected the request because it is incorrect. |
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
