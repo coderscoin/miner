@@ -59,3 +59,6 @@ Start the server
 ```bash
   npm run start
 ```
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
