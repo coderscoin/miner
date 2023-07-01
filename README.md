@@ -89,3 +89,7 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@petertill](https://www.github.com/petertill)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
