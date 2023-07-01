@@ -1,7 +1,7 @@
 # CodersCoin Miner
 This is the official mining software for CSC cryptocurrency. CodersCoin uses the Proof of Work consensus algorithm to validate blocks, but due to the lightweight nature of the blockchain, hashing and the proof of work process do not require too much computing capacity unlike other cryptocurrencies.
 ----
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Available](https://img.shields.io/badge/Available-Testnet)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 ## Mining API reference
