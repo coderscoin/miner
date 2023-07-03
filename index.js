@@ -1,5 +1,6 @@
 const crypto = require('crypto');
 const axios = require('axios');
+const prompt = require('prompt-sync')();
 
 class Block {
     constructor(index, transactions, timestamp, previousHash, nonce = 0) {
@@ -91,5 +92,5 @@ class Miner {
 }
 
 // Usage example
-const miner = new Miner("This information is private", "mineruser");
+const miner = new Miner("https://csc.onrender.com", prompt('What is your username? > '));
 miner.mine();
