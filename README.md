@@ -14,9 +14,9 @@ This is the official mining software for CSC cryptocurrency. CodersCoin uses the
 
 - [x] Miner script version
 - [x] Testnet testing
-- [ ] Mainnet update
-- [ ] Bundled executable file
-- [ ] Public release
+- [x] Mainnet update
+- [x] Bundled executable file
+- [x] Public release
 ## FAQ
 
 #### Question 1
