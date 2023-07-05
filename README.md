@@ -55,6 +55,7 @@ This returns the latest block on the chain in JSON format.
 | Code | Description                       |
 | :-------- | :-------------------------------- |
 | `200` | The mining is successful and has been accepted by the network. |
+| `403` | The user was banned from the platform due to fraud detected or the last block was not validated |
 | `500` | Mining failed, the network rejected the request because it is incorrect. |
 
 ## Run Locally
