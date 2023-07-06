@@ -58,7 +58,7 @@ class Miner {
                 console.log("Mining failed.");
             }
         } catch (error) {
-            console.error("An error occurred during mining:", error.message);
+            console.error("An error occurred during mining:", error.message, " CSC has different meanings for error messages, check the README file on Github!");
         }
     }
 
