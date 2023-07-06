@@ -3,7 +3,7 @@ This is the official mining software for CSC cryptocurrency. CodersCoin uses the
 
 [![Available](https://img.shields.io/badge/Available-Mainnet-green)](https://choosealicense.com/licenses/mit/)
 [![Release](https://img.shields.io/badge/Release-Executable-green)](https://opensource.org/licenses/)
-# Important!
+## Important!
 Since there are still few transactions on the network, at first it is enough to run the mining script once a day. If no new transaction takes place, the miner script wants to mine the last (in this case already mined) transaction or the miner reward block, which the network will block (error code 403).
 ## Screenshots
 
