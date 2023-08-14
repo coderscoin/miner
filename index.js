@@ -96,5 +96,5 @@ class Miner {
 }
 
 // Usage example
-const miner = new Miner("TESTNET URL IS SECRET", prompt('What is your username? > '));
+const miner = new Miner("https://csc.onrender.com", prompt('What is your username? > '));
 miner.mine();
