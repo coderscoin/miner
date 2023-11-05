@@ -5,6 +5,40 @@ This is the official mining software for CSC cryptocurrency. CodersCoin uses the
 [![Release](https://img.shields.io/badge/Release-Executable-green)](https://opensource.org/licenses/)
 ## Important!
 Since there are still few transactions on the network, at first it is enough to run the mining script once a day. If no new transaction takes place, the miner script wants to mine the last transaction which does not exists yet so it will scan for net transactions.
+
+## Installation
+
+Clone the project
+
+```bash
+  git clone https://github.com/coderscoin/miner.git
+```
+
+Go to the project directory
+
+```bash
+  cd miner
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Add a seed peer to the peer list. Modify the `PEERLIST` variable at line 83!
+
+```javascript
+const PEERLIST = [
+  {host:"NODE_IP", port:3000}
+];
+```
+
+Run the miner script:
+
+```bash
+  node index.js
+```
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
